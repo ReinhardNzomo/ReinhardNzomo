@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  <summary>:zap :Github Stats</summary>
+  <summary>Github Stats</summary>
   
   ![Github stats](https://github-readme-stats-chi-sable.vercel.app/api?username=ReinhardNzomo&theme=highcontrast&show_icons=true&count_private=true)
 </details>

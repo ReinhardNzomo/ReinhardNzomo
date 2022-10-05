@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ReinhardNzomo&theme=highcontrast&show_icons=true&count_private=true)
+<details>
+  <summary>:zap :Github Stats</summary>
+  
+  ![Github stats](https://github-readme-stats-chi-sable.vercel.app/api?username=ReinhardNzomo&theme=highcontrast&show_icons=true&count_private=true)
+</details>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinhardNzomo&layout=compact)
 
